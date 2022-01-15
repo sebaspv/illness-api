@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+wikipedia-api
+python-dotenv
